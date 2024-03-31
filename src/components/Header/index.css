@@ -1,0 +1,37 @@
+.header-section{
+background-color: rgba(29,27,27,0.822);
+height: 55px;
+
+}
+
+.nav-list{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding-top: 5px;
+
+
+}
+
+.home-jobs-cont{
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.header-img-logo{
+  width: 90px;
+}
+
+.nav-element{
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+ 
+   
+}
+.my-link-ele{
+  text-decoration: none;
+}
